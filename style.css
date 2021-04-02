@@ -1,0 +1,36 @@
+/* Add your custom styles here */
+@font-face {
+    font-family: Lovelo;
+    src: url("TTF/Lovelo-Black.ttf");
+}
+.title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 3%;
+}
+.logo {
+    position: absolute;
+    margin-left: 16%;
+    top: 5px;
+    width: 70px;
+    height: 90px;
+}
+.logor {
+    position: absolute;
+    margin-left: 77.5%;
+    top: 5px;
+    width: 70px;
+    height: 90px;
+}
+body {
+    background-image: url(background.gif);
+}
+#container {
+    color: white;
+    font-family: Lovelo;
+    display: block;
+    padding-left: 15%;
+    align-items: center;
+    padding-top: 10%;
+}
